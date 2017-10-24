@@ -2,3 +2,5 @@
 *.fbx
 *.blend1
 *.spp
+*.tif
+*.painter_lock
